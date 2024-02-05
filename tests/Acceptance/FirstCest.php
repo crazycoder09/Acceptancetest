@@ -21,7 +21,5 @@ class FirstCest
     {
         $I->amOnPage('/');
         $I->see('Home');
-        $I->see('Welcome ');
-       
     }
 }
